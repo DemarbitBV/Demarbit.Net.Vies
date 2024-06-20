@@ -1,5 +1,8 @@
 # Demarbit.Net.Vies
 
+[![Github Workflow](https://github.com/DemarbitBV/Demarbit.Net.Vies/actions/workflows/dotnet.yml/badge.svg)](https://github.com/DemarbitBV/Demarbit.Net.Vies/actions/workflows/dotnet.yml/badge.svg)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=DemarbitBV_Demarbit.Net.Vies&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=DemarbitBV_Demarbit.Net.Vies)
+
 Integrate the [VIES Service](https://ec.europa.eu/taxation_customs/vies/#/vat-validation) API into your .NET project!
 
 The Demarbit VIES .NET Library targets the .NET 8 framework.
